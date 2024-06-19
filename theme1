@@ -17,7 +17,7 @@
 	--dbackground:					url(https://vsthemes.org/uploads/generator/preview.jpeg);
 	--dbackgroundsize:				cover;
 	--dbackgroundposition:			center;
-	--dblur:						unset;
+	--dblur:						var(--dblur);
 	--dbackdrop:					rgba(0,0,0,0.85);
 
 	--vtransparencycolor:			var(--transparencycolor,			var(--dtransparencycolor));
