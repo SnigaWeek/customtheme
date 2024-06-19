@@ -4417,7 +4417,7 @@ body::before {
 	bottom: 0;
 	right: 0;
 	left: 0;
-	background: rgba(var(--vtransparencycolor), calc(var(--vtransparencyalpha) + 0.3));
+	background: rgba(var(--vtransparencycolor), calc(var(--vtransparencyalpha2) + 0.3));
 	width: unset;
 	height: unset;
 	border-radius: 4px;
@@ -4428,7 +4428,7 @@ body::before {
 	position: relative;
 }
 .container-1S6Mlq {											/* contextmenu			searchbar							*/
-	background-color: rgba(var(--vtransparencycolor), 0.2);
+	background-color: rgba(var(--vtransparencycolor2), 0.2);
 }
 .item-1tOPte.colorDefault-2K3EoJ {							/* contextmenu			item								*/
 	color: rgb(var(--fontwhite2));
